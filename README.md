@@ -13,7 +13,7 @@
 1. **Clone the repository:**
     
     git clone https://github.com/0ye0m/44-s-Sketchy
-    cd 44-s-Sketchy
+    cd 44's-Sketchy
     
 
 2. **Install dependencies:**
