@@ -12,7 +12,7 @@
 
 1. **Clone the repository:**
     
-    git clone https://github.com/0ye0m/44-s-Sketchy
+    git clone [https://github.com/0ye0m/44-s-Sketchy](https://github.com/0ye0m/44-s-Sketchy.git)
     cd 44's-Sketchy
     
 
