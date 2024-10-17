@@ -1,19 +1,5 @@
 # 44's Sketchy
 
-## Project Structure:
-44's-Sketchy/
-│
-├── app.py                             # Main Python script for running the application
-├── static/
-│   └── uploads/
-│       ├── various images (.jpg, .png)
-│       └── corresponding sketch images (.jpg)
-├── templates/
-│   └── home.html                      # HTML template for the home page
-└── __pycache__/
-    └── Compiled Python files (.pyc)
-
-
 ## Overview
 44's Sketchy is a web application that allows users to upload an image and receive a sketch-like version of the image. The application uses image processing techniques to convert photos into sketch drawings.
 
@@ -33,7 +19,7 @@
 2. **Install dependencies:**
     Make sure you have Python installed, then run:
     
-    pip install <The libraries which has yellow warnings>
+    pip install -r requirements.txt
   
 
 3. **Run the application:**
